@@ -1,9 +1,8 @@
 
 
-#Predicting COVID19 Outbreaks in Ukraine Post-Invasion 
+# Predicting COVID19 Outbreaks in Ukraine Post-Invasion 
 
  Jonathan Reisher
-
  Carnegie Mellon University
                                               
 
@@ -21,6 +20,33 @@ This study on COVID19 in Ukraine post-2022 Russian invasion sought to provide hu
 
  
    _Figure 1: Estimate of pre & post 2022 Russian Invasion COVID19 Hotspots_
-    ![COVID Hotspots](/Pictures/COVID.jpg)
+  ![COVID Hotspots](/Pictures/COVID.jpg)
+    
+**Findings: COVID19 Clusters and Optimal Humanitarian Locations**
+
+A lack of disaggregated data precluded the use of advanced geospatial prediction methods such as Forest-Based Classification and Regression to determine areas of future COVID19 outbreak in Ukraine. However, the data from the hotspot analysis supported the use of a density cluster-based analysis filters out the noise and provides clarity on the severity of future outbreaks. (See figure 2). The density clusters of COVID19 outbreak in Ukrainian held territory will occur around Kyiv, Kharkiv, Dnipro, Odessa, Zakarpattia Oblast and Vinnytsia Oblast. 
+
+_Figure 2: Density Cluster Analysis of Worse Future COIVD19 Outbreaks in Ukraine_
+![Density Clusters](/Pictures/Clusters.jpg)
+
+The Optimal COVID19 Humanitarian Map (Figure 3) was made by using a combined road and railroad raster and then overlaying 25 km buffers over COVID19 clusters. The blue buffers on the map were further divided into buffers in Ukrainian and Russian control and filtered out if a recent major attack occurred within the buffer as determined by ACLED data.  The purpose is to provide humanitarian organizations an idea of where they could establish aid locations that are near major transportation, likely COVID19 outbreaks, and have not been targeted by recent Russian attacks. 
+
+_Figure 3: Optimal COVID19 Aid Locations are Denoted in Blue_
+![HA Locations](/Pictures/HA.jpg)
+
+**Recommendations**
+	
+Based on the geospatial analysis presented in this paper the following recommendations are made for Ukrainian Government officials organizing COVID19 response and associated humanitarian locations:
+
+•	Coordinate for COVID19 related humanitarian aid to areas near potential areas of high-density outbreak.
+•	Implement COVID19 testing to track both soldiers and civilian transmission of the disease as the war evolves and human movement patterns changes.
+
+
+Location of Map Packages are publicly available On Esri Online
+Location of Original Research and Process Log is available [here](https://drive.google.com/drive/folders/1X3u7OzEkXFfGoG8fMCrUOGu44GkBk0YG?usp=sharing). 
+
+
+
+
     
  
