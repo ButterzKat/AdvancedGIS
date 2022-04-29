@@ -38,11 +38,12 @@ _Figure 3: Optimal COVID19 Aid Locations are Denoted in Blue_
 	
 Based on the geospatial analysis presented in this paper the following recommendations are made for Ukrainian Government officials organizing COVID19 response and associated humanitarian locations:
 
-•	Coordinate for COVID19 related humanitarian aid to areas near potential areas of high-density outbreak.
-•	Implement COVID19 testing to track both soldiers and civilian transmission of the disease as the war evolves and human movement patterns changes.
+* Coordinate for COVID19 related humanitarian aid to areas near potential areas of high-density outbreak.
+* Implement COVID19 testing to track both soldiers and civilian transmission of the disease as the war evolves and human movement patterns changes.
 
 
 Location of Map Packages are publicly available On Esri Online
+
 Location of Original Research and Process Log is available [here](https://drive.google.com/drive/folders/1X3u7OzEkXFfGoG8fMCrUOGu44GkBk0YG?usp=sharing). 
 
 
