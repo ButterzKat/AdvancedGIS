@@ -1,8 +1,9 @@
 
-
--> # Predicting COVID19 Outbreaks in Ukraine Post-Invasion <-
+<center>
+# Predicting COVID19 Outbreaks in Ukraine Post-Invasion <-
 Jonathan Reisher
 Carnegie Mellon University
+ </center>                                                 
 
 **The Problem**
 
@@ -18,6 +19,6 @@ This study on COVID19 in Ukraine post-2022 Russian invasion sought to provide hu
 
  
    _Figure 1: Estimate of pre & post 2022 Russian Invasion COVID19 Hotspots_
-    ![COVID Hotspots](AdvancedGIS/pictures/COVID.pdf)
+    [![COVID Hotspots](AdvancedGIS/pictures/COVID.pdf)]
     
  
