@@ -3,6 +3,7 @@
 # Predicting COVID19 Outbreaks in Ukraine Post-Invasion 
 
  Jonathan Reisher
+ 
  Carnegie Mellon University
                                               
 
@@ -47,7 +48,7 @@ Location of Map Packages are publicly available On Esri Online
 Location of Original Research and Process Log is available [here](https://drive.google.com/drive/folders/1X3u7OzEkXFfGoG8fMCrUOGu44GkBk0YG?usp=sharing). 
 
 
-[Return Home](ReadMe.md)
+[Return Home](README.md)
 
     
  
