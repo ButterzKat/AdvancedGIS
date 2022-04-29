@@ -1,9 +1,8 @@
-<center>
 
-# Predicting COVID19 Outbreaks in Ukraine Post-Invasion
+
+-> # Predicting COVID19 Outbreaks in Ukraine Post-Invasion <-
 Jonathan Reisher
 Carnegie Mellon University
-<center>
 
 **The Problem**
 
@@ -17,8 +16,8 @@ Methodology: Centroids and Hotspot Analysis
 
 	This study on COVID19 in Ukraine post-2022 Russian invasion sought to provide humanitarian organizations and Ukrainian policy makers information on the location and magnitude of COVID19 outbreaks during active combat operations. To create the pre and post invasion hotspot maps in Figure 1, were created by taking the top 30 locations (centroids) in each time period that were weighted by various factors. The pre-invasion centroids were weighted using WHO COVID19 infection rates and multiplied by the populations of the 30 most populated Ukrainian cities from 2021.  This approach assumes that infection rate was constant over the past 23 months of data, incorporating seasonality of both the calendar year and virus variations. The post-invasion hot spot map used the top 30 locations of human activity, modeled after the Spanish American War Geospatial study, using Institute for the Study of War and New York Times estimates of locations of major fighting and refugee locations.  Furthermore, assumptions were made about the war time population of major city centers. The civilian population was estimated to be 40% of their pre-war population and military population was based on whether ISW maps suggested to the author the if the conflict was a division (20,000 total), brigade (10,000 total), or multiple battalion sized fight (5,000 total). These numbers are intended to be an estimate and should be updated as the conflict evolves.
 
-  <center>
+ 
    _Figure 1: Estimate of pre & post 2022 Russian Invasion COVID19 Hotspots_
-    ![COVID Hotspots](pictures/Pre & Post Invasion COVID19)
+    ![COVID Hotspots](pictures/Pre & Post Invasion COVID19.pdf)
     
-  <center>
+ 
