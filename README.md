@@ -23,8 +23,6 @@ I hope to learn more about geospatial analysis and how to create customizable ma
 
 [Click Here!](HWK1.md)
 
-## Final Project: Mapping COVID19 Outbreaks after the 2022 Russian Invasion of Ukraine 
-
 ### Ottawa Cycling Dashboad
 
 [Click Here!](cycling.html)
@@ -34,5 +32,6 @@ I hope to learn more about geospatial analysis and how to create customizable ma
 [Click Here!](UNHCR.html)
 
 
-## Final Project
+## Final Project: Mapping COVID19 Outbreaks after the 2022 Russian Invasion of Ukraine 
+
 [Click Here!](FinalProject.md)
