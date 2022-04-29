@@ -1,8 +1,10 @@
 
 <center>
-# Predicting COVID19 Outbreaks in Ukraine Post-Invasion <-
-Jonathan Reisher
-Carnegie Mellon University
+# Predicting COVID19 Outbreaks in Ukraine Post-Invasion 
+
+ Jonathan Reisher
+
+ Carnegie Mellon University
  </center>                                                 
 
 **The Problem**
