@@ -1,6 +1,6 @@
 
 
-# Predicting COVID19 Outbreaks in Ukraine Post-Invasion 
+# Predicting COVID19 Outbreaks in Ukraine Post Russian Invasion 
 
  Jonathan Reisher
  
