@@ -43,7 +43,7 @@ Based on the geospatial analysis presented in this paper the following recommend
 * Implement COVID19 testing to track both soldiers and civilian transmission of the disease as the war evolves and human movement patterns changes.
 
 
-Location of Map Packages are publicly available On Esri Online
+Location of Map Packages are publicly available On [Esri Online](https://carnegiemellon.maps.arcgis.com/home/item.html?id=0d42ec730b854f2f99a75da639629651#overview)
 
 Location of Original Research and Process Log is available [here](https://drive.google.com/drive/folders/1X3u7OzEkXFfGoG8fMCrUOGu44GkBk0YG?usp=sharing). 
 
